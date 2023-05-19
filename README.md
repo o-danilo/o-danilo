@@ -5,7 +5,7 @@
     <img src="https://komarev.com/ghpvc/?username=o-danilo&color=0079fa&style=flat-square&label=PROFILE+VIEWS" alt="profile view counter">
 </p> <br>
 
-<a href="https://app.daily.dev/o-danilo"> <img align='right' src="https://api.daily.dev/devcards/8fddb2af28184ef78283439a583c3cb1.png?r=fa0" width="350" alt="HyunSun's Dev Card" /></a>
+<a href="https://app.daily.dev/o-danilo"> <img align='right' src="https://api.daily.dev/devcards/8fddb2af28184ef78283439a583c3cb1.png?r=fa0" width="350" alt="o-danilo's Dev Card" /></a>
 
 <h2 align="center"> Self-taught, curious, and passionate about coding!</h2>
 
@@ -23,7 +23,7 @@
 
 
 
-- 🔭 I’m currently working at [City Hall of Santo André, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+- 🔭 I’m currently working at [Santo Andre City Hall, SP, BRAZIL](https://web.santoandre.sp.gov.br).
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
@@ -41,7 +41,7 @@
   <table>
     <th>
       <p align="center">
-        <p align="center">💻&ensp; <i>L a n g u a g e s</i> &ensp;💻</p>
+        <p align="center">💻&ensp; <i>LANGUAGES</i> &ensp;💻</p>
         <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
         <img src="https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" />
@@ -53,7 +53,7 @@
     </th>
     <th>
       <p align="center">
-      <p align="center">⚙️&ensp; <i>T o o l s</i> &ensp;⚙️</p>
+      <p align="center">⚙️&ensp; <i>TOOLS</i> &ensp;⚙️</p>
         <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
         <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
@@ -63,14 +63,14 @@
   </table>
 <div>
  <h2></h2>
-<h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
+<h2 align="center">🙋‍&ensp; <i>CONTATO</i> &ensp;🙋‍</h2>
 <a>&nbsp;</a>
 <img align="left" width="310px" height="235px" src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F29%2F9a%2F9d%2F299a9d775a786be5973804cb13248842.gif&hash=8fa1acaab0e1387307a3c8ccff3b94a3" alt="anime coding" />
 <div>
   <p align="center">
   <br>
-    <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
-    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
+    <a href="https://www.linkedin.com/in/o-danilo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+    <a href="https://stackoverflow.com/users/18716886/o-danilo"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
        </p><br><br>
     <p align="center">
 <!--    <a href="https://github.com/leoszm" target="_blank"><img height="55" width="55" src="./images/buttons/githublogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
