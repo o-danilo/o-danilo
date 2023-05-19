@@ -63,3 +63,21 @@
   </table>
 <div>
  <h2></h2>
+<h2 align="center">🙋‍&ensp; <i>Ｃｏｎｔａｔｏ</i> &ensp;🙋‍</h2>
+<a>&nbsp;</a>
+<img align="left" width="310px" height="235px" src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F29%2F9a%2F9d%2F299a9d775a786be5973804cb13248842.gif&hash=8fa1acaab0e1387307a3c8ccff3b94a3" alt="anime coding" />
+<div>
+  <p align="center">
+  <br>
+    <a href="https://www.linkedin.com/in/leoszm/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <br>
+    <a href="https://stackoverflow.com/users/20460025/leoszm"><img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white"></a>
+       </p><br><br>
+    <p align="center">
+<!--    <a href="https://github.com/leoszm" target="_blank"><img height="55" width="55" src="./images/buttons/githublogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="mailto:leonardosousa60.profissional@gmail.com" target="_blank"><img height="55" width="55" src="./images/buttons/gmailogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a>
+    <a href="https://discordapp.com/users/702567755618189404" target="_blank"><img height="55" width="55" src="./images/buttons/discordlogo.png" alt=""/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a> -->
+    </p>
+
+  </div>
+   </div>
+  <br>
