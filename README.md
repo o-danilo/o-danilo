@@ -1,4 +1,4 @@
-<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello,+My+name+is+Danilo+Oliveira!;I'm+from+Santo+André,+SP+-+Brazil;I+work+in+IOT+and+Electronics+Development;Welcome+and+enjoy!+:D" align="middle" alt="Hey, I'm Dan! Welcome to my Github page! :D animated typed out">
+<img src="https://readme-typing-svg.demolab.com?font=Operator+Mono&size=37&duration=2800&pause=2000&color=FAFAFA&center=true&vCenter=true&width=940&height=50&lines=Hello,+my+name+is+Danilo+Oliveira!;I'm+from+Santo+André,+SP+-+Brazil;I+work+in+IOT+and+Electronics+Development;Welcome+and+enjoy!+:D" align="middle" alt="Hey, I'm Dan! Welcome to my Github page! :D animated typed out">
 <img  src="assests/borderseperator.gif">
 
 <p align="center">
