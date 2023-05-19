@@ -23,7 +23,7 @@
 
 
 
-- 🔭 I’m currently working at [Santo Andre City Hall, SP, BRAZIL](https://web.santoandre.sp.gov.br).
+- 🔭 I’m currently working at [Santo André City Hall, SP, BRAZIL](https://web.santoandre.sp.gov.br).
 
 - 🤖 I like to learn new things and ideas, technologies and meet new people!
 
