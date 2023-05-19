@@ -36,7 +36,7 @@
   <img src="https://i.pinimg.com/originals/a1/9d/14/a19d149acd516549f0a2ac035b88cd35.gif">
 </div>
 <hr />
-<h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ</i> &ensp;🛠️</h2>
+<h2 align="center">🛠️&ensp; <i>TECHNOLOGIES</i> &ensp;🛠️</h2>
 <div>
   <table>
     <th>
@@ -63,7 +63,7 @@
   </table>
 <div>
  <h2></h2>
-<h2 align="center">🙋‍&ensp; <i>CONTATO</i> &ensp;🙋‍</h2>
+<h2 align="center">🙋‍&ensp; <i>CONTATC</i> &ensp;🙋‍</h2>
 <a>&nbsp;</a>
 <img align="left" width="310px" height="235px" src="https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F29%2F9a%2F9d%2F299a9d775a786be5973804cb13248842.gif&hash=8fa1acaab0e1387307a3c8ccff3b94a3" alt="anime coding" />
 <div>
