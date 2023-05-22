@@ -39,6 +39,12 @@
 <h2 align="center">🛠️&ensp; <i>TECHNOLOGIES</i> &ensp;🛠️</h2>
 <div>
   <table>
+      <tr>
+         <th colspan="2">
+             <i>💻&ensp; <i>LANGUAGES</i> &nbsp;&nbsp;AND&nbsp;&nbsp; <i>TOOLS</i> &ensp;⚙️</i>
+         </th>
+      </tr>
+      <tr>
     <th>
       <p align="center">
         <p align="center">💻&ensp; <i>LANGUAGES</i> &ensp;💻</p>
@@ -61,6 +67,30 @@
         <img src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white" />
       </p>    
     </th>
+    </tr>
+    <tr>
+         <th colspan="2">
+             <i>💻&ensp; <i>OSES</i> &nbsp;&nbsp;AND&nbsp;&nbsp; <i>FRAMEWORKS</i> &ensp;⚙️</i>
+         </th>
+      </tr>
+      <tr>
+    <th>
+      <p align="center">
+        <p align="center">💻&ensp; <i>OSES</i> &ensp;💻</p>
+        <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
+        <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" />
+        <img src="https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white" />
+      </p>
+    </th>
+    <th>
+      <p align="center">
+      <p align="center">⚙️&ensp; <i>FRAMEWORKS</i> &ensp;⚙️</p>
+        <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" />
+        <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+        <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+      </p>    
+    </th>
+    </tr>
   </table>
 <div>
  <h2></h2>
